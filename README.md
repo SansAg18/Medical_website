@@ -14,7 +14,7 @@ Technologies Used:: HTML, CSS,JavaScript
 
 How to Use :: Open parma.html in your browser to explore the medical site.
 
-Clone this repository: git clone https://github.com/SansAg18/Medical_Website.git
+Clone this repository: git clone https://github.com/SansAg18/Medical_Website/tree/my-new-branch
 
 Here are some screenshots:: 
 <img width="940" alt="2025-03-02" src="https://github.com/user-attachments/assets/e54a105b-cb3b-4f76-9775-1058e2db14e8" />
